@@ -1,9 +1,4 @@
 {
-    "licenses": {
-        "CDCDEF14": "DISPONIVEL",
-        "CHIJKL07": "DISPONIVEL",
-        "CNOPQR15": "DISPONIVEL",
-        "CTUVWX03": "UTILIZADA",
-        "CZABCD07": "DISPONIVEL"
-    }
+    "ABC123DEF456": "VALIDADOR1",
+    "GHI789JKL012": "VALIDADOR2"
 }
