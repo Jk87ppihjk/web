@@ -14,7 +14,7 @@ const port = process.env.PORT || 4000; // Use uma porta diferente do seu backend
 // possa se comunicar com este novo backend (no Render.com).
 // SUBSTITUA 'https://SEU_DOMINIO_DA_DAW_AQUI.com' pelo URL REAL do seu frontend (ex: https://infinit-daw.com.br)
 app.use(cors({
-  origin: 'https://SEU_DOMINIO_DA_DAW_AQUI.com',
+  origin: 'https://kocodillo.com',
   methods: ['GET', 'POST', 'PUT', 'DELETE'], // Permita os métodos HTTP que você usará
   allowedHeaders: ['Content-Type', 'Authorization'] // Permita os cabeçalhos que você usará
 }));
