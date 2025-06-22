@@ -1,2 +1,0 @@
-# web
-licenças no pc
